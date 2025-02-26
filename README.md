@@ -2,13 +2,13 @@
 # CURRICULO
 # Curriculo
 
-Nome:Ramon Moraes Polverini
+Nome:João Nilton Ramos
 Idade:20 anos
 Sexo:Masculino
 
 FORMAÇÃO:
-.Ensino Fundamental: Portinari
-.Ensino Médio: Marcelino Champagnat
+.Ensino Fundamental: Barão
+.Ensino Médio: Ceep
 .Universidade Unicesumar: Cursando analise e desenvolvimento de Sistemas 3 semestre
 
 OBJETIVO:
